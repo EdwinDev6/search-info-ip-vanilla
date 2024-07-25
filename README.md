@@ -1,0 +1,1 @@
+# search-info-api-vanilla
